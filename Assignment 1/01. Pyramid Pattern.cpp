@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/programs-printing-pyramid-patterns-java/
+
 #include <iostream> 
 using namespace std;
 int main() 
